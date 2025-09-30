@@ -8,9 +8,9 @@ This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM serv
 
 \## 📌 Features
 
-\- `/me` → Describe your character’s actions  
+\- `/me` → Define somthing in RP
 
-\- `/do` → Describe the environment or surroundings  
+\- `/do` → Do somthing 
 
 \- `/gme` → Global action/emote visible to everyone  
 
@@ -18,7 +18,7 @@ This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM serv
 
 \- `/med` → Medical RP messages (EMS, doctors, etc.)  
 
-\- `/pol` → Police RP messages (LEO, dispatch, etc.)  
+\- `/leo` → Police RP messages (LEO, dispatch, etc.)  
 
 \- `/ooc` → Out-of-character chat  
 
@@ -68,7 +68,7 @@ In chat, players can type:
 
 /med Starts CPR on the patient.
 
-/pol Soft cuffs suspect.
+/leo Soft cuffs suspect.
 
 /ooc brb, need to relog
 
