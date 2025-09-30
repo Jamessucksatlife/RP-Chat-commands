@@ -68,7 +68,7 @@ In chat, players can type:
 
 /med Starts CPR on the patient.
 
-/pol Dispatch reports shots fired near Legion Square.
+/pol Soft cuffs suspect.
 
 /ooc brb, need to relog
 
