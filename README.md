@@ -1,10 +1,7 @@
-\# RP Chat Commands for BigDaddyScripts Chat
+\## RP Chat Commands for BigDaddyScripts Chat 
 
 
-
-This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM server when using \[BigDaddyScripts Chat](https://bigdaddyscripts.com/Products/View/2053/Chat).
-
-
+This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM server when using \[BigDaddyScripts Chat]
 
 \## 📌 Features
 
