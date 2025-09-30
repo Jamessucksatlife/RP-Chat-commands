@@ -82,7 +82,7 @@ In chat, players can type:
 
 \## ⚙️ Configuration
 
-\- Messages are handled client-side \& server-side to integrate with BigDaddyScripts Chat.  
+\- Messages are handled server-side to integrate with BigDaddyScripts Chat.  
 
 \- You can customize colors, prefixes, and visibility inside the server.lua file.  
 
@@ -108,7 +108,7 @@ In chat, players can type:
 
 Free to use and modify for your own server.  
 
-\*\*Do not redistribute or re-sell.\*\*
+\*\*Do not redistribute, claim ownership or re-sell.\*\*
 
 
 
@@ -116,7 +116,7 @@ Free to use and modify for your own server.
 
 
 
-👨‍💻 Made by \*\[J.Carson]\*  
+👨‍💻 Made by \*\[James C]\*  
 
 
 
