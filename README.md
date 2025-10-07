@@ -7,27 +7,27 @@ This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM serv
 
 \## 📌 Features
 
-\- `/me` → Define somthing in RP
+\- `/me` → Define somthing in RP [ME]
 
-\- `/do` → Do somthing 
+\- `/gme` → Global action/emote visible to everyone\ [!ME]
 
-\- `/gdo` → do something global 
+\- `/do` → Do somthing [DO] 
 
-\- `/gme` → Global action/emote visible to everyone  
+\- `/gdo` → do something global [!DO]  
 
-\- `/ad` → Send an advertisement
+\- `/ad` → Send an advertisement [AD]
 
-\- `/med` → Medical RP messages (EMS, doctors, etc.)  
+\- `/med` → Medical RP messages (EMS, doctors, etc.)  [MED]
 
-\- `/gmed` → Medical RP messages global (EMS, doctors, etc.)  
+\- `/gmed` → Medical RP messages global (EMS, doctors, etc.)  [!MED]
 
-\- `/leo` → Police RP messages (LEO, dispatch, etc.)  
+\- `/leo` → Police RP messages (LEO, dispatch, etc.)  [LEO]
 
-\- `/gleo` → Police RP messages global (LEO, dispatch, etc.) 
+\- `/gleo` → Police RP messages global (LEO, dispatch, etc.) [!LEO]
 
-\- `/ooc` → Out-of-character chat  
+\- `/ooc` → Out-of-character chat  [OOC]
 
-\- `/gooc` → global Out-of-character chat (announce something ooc)
+\- `/gooc` → global Out-of-character chat (announce something ooc) [!OOC]
 
 
 
