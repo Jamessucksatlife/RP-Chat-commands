@@ -11,15 +11,23 @@ This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM serv
 
 \- `/do` → Do somthing 
 
+\- `/gdo` → do something global 
+
 \- `/gme` → Global action/emote visible to everyone  
 
-\- `/ad` → Send an advertisement/announcement  
+\- `/ad` → Send an advertisement
 
 \- `/med` → Medical RP messages (EMS, doctors, etc.)  
 
+\- `/gmed` → Medical RP messages global (EMS, doctors, etc.)  
+
 \- `/leo` → Police RP messages (LEO, dispatch, etc.)  
 
+\- `/gleo` → Police RP messages global (LEO, dispatch, etc.) 
+
 \- `/ooc` → Out-of-character chat  
+
+\- `/gooc` → global Out-of-character chat (announce something ooc)
 
 
 
@@ -57,19 +65,27 @@ ensure RP-Chat-Commands
 
 In chat, players can type:
 
-/me scratches his head.
+/me squatting for dummies book falls out of pocket.
 
-/do The room smells of smoke.
+/gme Global gun wallet ID chris nickerson.
 
-/gme A storm begins to roll in.
+/do pays for stuff.
+
+/gdo silent alarm at maze bank on eclipse 1047.
 
 /ad Selling a Sultan RS, call 1234.
 
 /med Starts CPR on the patient.
 
+/gmed county medics take patient.
+
 /leo Soft cuffs suspect.
 
-/ooc brb, need to relog
+/gleo searches car @1047 widf?
+
+/ooc your mic is bad please fix it soon
+
+/gooc everyone please go to the city for a bit srry for the lagg
 
 
 
