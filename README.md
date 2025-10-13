@@ -9,7 +9,7 @@ This script adds commonly used \*\*roleplay chat commands\*\* to your FiveM serv
 
 \- `/me` → Define somthing in RP [ME]
 
-\- `/gme` → Global action/emote visible to everyone\ [!ME]
+\- `/gme` → Global action/emote visible to everyone [!ME]
 
 \- `/do` → Do somthing [DO] 
 
